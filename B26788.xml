@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merits of the election between the honourable Craven Howard, esq; petitioner, and Mr. Edward Pauncefort, one of the sitting members for the borough of Malmsbury</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26788</idno><idno type="EEBO-CITATION">99833125</idno>
+  <idno type="VID">207864</idno>
+  <idno type="EEBO-PROQUEST">2240917506</idno>
+  
+            <idno type="STC">Wing M1825</idno>
+            <idno type="PROQUEST">99833125</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833125e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merits of the election between the honourable Craven Howard, esq; petitioner, and Mr. Edward Pauncefort, one of the sitting members for the borough of Malmsbury</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title: Case of the honourable Craven Howard, esq; againstMr. Edward Pauncefort, touching the election of Malmsbury. Appointed to be reported on Monday, the 27th. instant.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Howard, Craven --  Early works to 1800.</term>
+               <term type="personal_name">Pauncefort, Edward --  Early works to 1800.</term>
+               <term type="topical_term">Elections --  England --  Malmsbury --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207864:1"/>
+            <head>THE Merits of the Election Between the Honourable CRAVEN HOWARD, Esq; Petitioner, AND Mr. EDWARD PAUNCEFORT, one of the Sitting Members for the Borough of <hi>Malmsbury.</hi>
+            </head>
+            <p>'TIS Agreed on both sides, That the Right of Election is in an <hi>Alderman, and Twelve Capital Burgesses,</hi> upon whom Custom has devolved the Right of the rest of the <hi>Burgesses;</hi> That One of the Electors was absent; That Six, without the <hi>Alderman,</hi> Voted for Mr. <hi>Howard;</hi> Six (of which the <hi>Alderman</hi> was one) for Mr. <hi>Pauncefort.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Votes for Mr. <hi>Howard.</hi>
+                     </cell>
+                     <cell role="label">For Mr. <hi>Pauncefort.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Hays,</hi>
+                     </cell>
+                     <cell>* <hi>Edward Brown,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Crome,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Fry,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Giles Kaines,</hi>
+                     </cell>
+                     <cell>* <hi>John Adey,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmond Sansome,</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Hill,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abraham Huggin's,</hi>
+                     </cell>
+                     <cell>* <hi>Robert Nicholls,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elias Ferris.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Dolman,</hi> Alderman.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>No manner of Objection has been made against any one of Mr. <hi>Howard</hi>'s Votes, or the least Pretence, that he or any <hi>Agent</hi> for him, gave any Treat, or Promise, or used any indirect Means whatsoever: And indeed, his Interest was so establish'd, as next Heir to the <hi>Honour</hi> and <hi>Estate</hi> of the <hi>Earl</hi> of <hi>Berks,</hi> who has long been a Neighbour and Benefactor to the Town, and by the Services which Mr. <hi>Howard</hi> had done them, while their <hi>Representative in Parliament,</hi> and otherwise; that 'twould have been the greatest Imprudence imaginable, for him to use such Methods as would be necessary for <note n="(a)" place="margin">Proved by Alderm. <hi>Hays,</hi> and even by Mr. <hi>Escourt,</hi> produced as a Witness for Mr. <hi>Pauncefort.</hi>
+               </note> one wholly a Stranger, who knew that the Election was <note n="(b)" place="margin">Offer'd to be Prov'd by Col. <hi>Mordant</hi> and Mr. <hi>Pennington.</hi>
+               </note> set to sale to the highest Bidder; and, as <note n="(c)" place="margin">
+                  <hi>Vo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, Sabbati</hi> 16 <hi>Feb.</hi> 1694. <hi>Resolved, Nemine Contradicente.</hi> That Mr. <hi>Edward Pauncefort</hi> (for contriving to Cheat Colonel <hi>Hastings</hi>'s Regiment of Five Hundred Guinea's, and for giving a Bribe to obtain the King's Bounty) be taken into the Custody of the Sergeant at Arms, attending this House. <hi>Vid.</hi> the <hi>Vote</hi> 21 <hi>Feb.</hi> 1694. That he had not dealt Ingenuously, but had Prevaricated.</note> appears by the Censure of the <hi>House of Commons,</hi> was not unacquainted with the way of Bribing.</p>
+            <p>The Numbers upon the Poll being equal, it is submitted to the Judg<g ref="char:EOLhyphen"/>ment of the <hi>House,</hi> Whether any pretence of Custom in that Town, can warrant the Principal Officer's Acting as Two Men, in Returns to Parlia<g ref="char:EOLhyphen"/>ment; and, Whether the way of Voting for Members, ought not to be Govern'd by the <hi>Custom of Parliament,</hi> where the <hi>Speaker</hi> or <hi>Chairman</hi>
+               <pb n="2" facs="tcp:207864:2"/> gives no Vote to defeat any Resolution; but when they are equal, adds his Vote to turn the Scale.</p>
+            <p>Therefore Mr. <hi>Howard</hi> having the Majority without the <hi>Alderman</hi> (as 'tis conceived) ought to have been Return'd, to prevent the necessity of repeating of new Elections. Besides, <hi>Thirteen</hi> being the Number of the <hi>Electors,</hi> for the Chief Officer to supply the Room of one absent <note n="*" place="margin">
+                  <hi>John Turner,</hi> one of the Bur<g ref="char:EOLhyphen"/>gesses, near 90, was con<g ref="char:EOLhyphen"/>vey'd away.</note>, seems contrary to the nature of the Constitution: For by the same reason, if that Man were present, Six, of which the <hi>Alderman</hi> were one, would defeat the Election of t'other Seven.</p>
+            <p>'Tis to be observed, That the <note n="*" place="margin">viz. <hi>Abraham Huggins.</hi>
+               </note>
+               <hi>Old Man</hi> who said it, had been twice so, upon Returns to Parliament, could name neither Times nor Persons, and said the Numbers both times were but Four and Four; which is very improbable, nor did he pretend that the <hi>House of Commons</hi> had made any Determination thereupon.</p>
+            <p>However, 'tis humbly conceiv'd, that Mr. <hi>Howard</hi> has Prov'd enough to disable Three of Mr. <hi>Pauncefort</hi>'s Votes.</p>
+            <p n="1">I. <hi>Robert Nicholls</hi> was Prov'd to be an <hi>Anabaptist,</hi> being so reputed, and <note place="margin">
+                  <hi>Robert Nicholls</hi> disabled for not Receiving the Sacrament. The Witness, <hi>Joseph Hancock.</hi>
+               </note> going to their Meetings; and if Evidence of his own Confession would have been receiv'd, 'twould have been Prov'd that he declar'd he neither had Re<g ref="char:EOLhyphen"/>ceived the Sacrament according to the <hi>Church of England,</hi> nor would upon any account. The Councel on the other Side, admitted, That since he had no Vote but as <hi>Capital Burgess,</hi> the not having Receiv'd the Sacrament, <note place="margin">13 <hi>Car.</hi> 2. Stat. 2. c. 1.</note> by the Statute of 13 <hi>Car.</hi> 2. would be a Disability; but would not admit the Proof which was offered, sufficient to put them upon shewing that he had not Receiv'd it; though they could not but know, That in such Cases, the Law, as 'tis taken in <hi>Westminster-Hall,</hi> puts the Proof upon the Party <note place="margin">B. C.</note> accused; as was held in the Case of <hi>Slatford</hi> and <hi>Thurston,</hi> upon an Action for falsely Returning, That the Party had not taken the Sacrament, to <note place="margin">
+                  <hi>Oxon. Michaelmas,</hi> 1697.</note> qualifie him to be an Officer in the Corporation.</p>
+            <p n="2">II. Mr. <hi>Howard</hi> was deprived of the Testimonies of <hi>Edward Brown,</hi> Se<g ref="char:EOLhyphen"/>nior, <note place="margin">
+                  <hi>Edward Brown</hi> disabled, being Bribed by <hi>Wil<g ref="char:EOLhyphen"/>liam Adey,</hi> A<g ref="char:EOLhyphen"/>gent for Mr. <hi>Pauncefort,</hi> Prov'd by <hi>Ed. Brown,</hi> Jun.</note> and Four more who join'd (in a Bond, since Cancell'd, without any Money Paid or Promis'd) Condition'd to Indempnifie him for giving Evi<g ref="char:EOLhyphen"/>dence of his being Brib'd, by <hi>William Adey,</hi> Deputy-Steward or Town-Clerk, to Vote for such as he should Name, with a Promise confirm'd by Mr. <hi>Paunce<g ref="char:EOLhyphen"/>fort</hi> himself, to advance 60 <hi>l.</hi> for Paying off a Mortgage upon his Estate; and afterwards receiving Three Guineas of <hi>William Adey</hi> in part of Payment for his Vote. However <hi>Anthony Martin,</hi> produced on the other Side to prove the <note n="*" place="margin">
+                  <hi>Anthony Martin</hi> call'd as a Wit<g ref="char:EOLhyphen"/>ness for t'other Side. And the Affi<g ref="char:EOLhyphen"/>davit of <hi>Edw. Brown,</hi> Sen. of which <hi>Wal<g ref="char:EOLhyphen"/>ter White,</hi> Esq; a Member of the <hi>House,</hi> can give an Ac<g ref="char:EOLhyphen"/>count.</note>
+               <note n="*" place="margin">
+                  <hi>Note,</hi> Mr. <hi>Ho<g ref="char:EOLhyphen"/>ward</hi> knew no<g ref="char:EOLhyphen"/>thing of the Bond till 'twas delivered up.</note> Bond, gave Evidence that the Discovery was made by <hi>Brown,</hi> and at his Request put into Writing by <hi>Martin,</hi> before any Bond was given. And 'tis referred to Mr. <hi>White,</hi> a Member of the House, to give an Account of <hi>Brown</hi>'s Affidavit taken before him; wherein he confesseth the said Bribery. It also appears, That he was Treated by <hi>John Adey,</hi> for such Persons as <hi>John would Chuse</hi> for Parliament Men. Besides which, <hi>Brown</hi>'s Son declared, That he knew his Father had Money; That he shewed him <hi>Three Guineas</hi> at one time, and <hi>Three</hi> at another, which he said <hi>William Adey</hi> gave him for his Vote; and that within two or three Days after his Father had discover'd the Bribery, and had withdrawn, for fear of Trouble upon that Account, <hi>William Adey</hi> gave <hi>Edward Brown,</hi> Junior, Two Guineas, and then One more, to Endeavour to bring back his Father; declaring he had given him Money for his Vote: And if the Son could not find him, the Father would make the Election Void.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:207864:2"/> III. <hi>John Adey,</hi> another of the Voters for Mr. <hi>Pauncefort,</hi> was proved <note place="margin">
+                  <hi>John Adey</hi> dis<g ref="char:EOLhyphen"/>abled as an A<g ref="char:EOLhyphen"/>gent for Mr. <hi>Pauncefort,</hi> bespeaking Treats, and being himself Treated for his Vote. <hi>Note,</hi> He be<g ref="char:EOLhyphen"/>ing produced as a Witness for Mr. <hi>Pauncefort,</hi> one of the Councel would have given him up, because of this Objection; but was check'd by the other, as therein yielding the Cause.</note> more than once to have ordered <hi>John Woodman,</hi> to distribute Syder and Beer, to the value of Nine Pounds, to himself and the rest of the <hi>Electors;</hi> for which he declared, such Parliament Men as he would Chuse should Pay; of which <hi>William Adey</hi> promis'd Payment: And afterwards ask'd for <hi>Woodman</hi>'s Bill, and tender'd him Five Guineas, which he would not take, not being his full Due.</p>
+            <p>The Answer to this was, That the Treats were for all the Burgesses, and not in order to the Election: But it appears by <hi>John Adey</hi>'s Declaration, that at least he himself took the Treats for that end, placing them to the Account of <hi>such as he would Chuse;</hi> And Mr. <hi>Pauncefort</hi>'s Agent, <hi>William Adey,</hi> confirm'd the same, promising to Pay, and offering Five Guineas for those Treats.</p>
+            <p>That <hi>William Adey</hi> was an Agent for Mr. <hi>Pauncefort,</hi> appears not only by this Instance, but further,</p>
+            <p n="1">1. By his pressing <hi>Brown</hi> the Burgess, to Vote for such as he should <note place="margin">
+                  <hi>Adey</hi>'s procu<g ref="char:EOLhyphen"/>ring Votes for such as he Thould Name.</note> Name.</p>
+            <p n="2">2. By his Adjourning the Poll from the Market-Cross, to a Private Room in a Tavern, for the convenience of his giving Signs whom he <note place="margin">His Contri<g ref="char:EOLhyphen"/>vance to let the Electors know for whom he Brib'd them, Prov'd by Mr. <hi>Pye.</hi>
+               </note> would have Chosen; and making a particular Sign to <hi>the Electors,</hi> whose Eyes were upon him, at the Naming Mr. <hi>Pauncefort;</hi> of which <hi>Richard Pye,</hi> Esq; <hi>a Member</hi> of the House, may please to inform the House.</p>
+            <p n="3">3. <hi>William Adey</hi>'s giving Money to <hi>Brown</hi>'s Son, to prevent his Father's Discovery, <hi>lest it should void Mr.</hi> Pauncefort<hi>'s Election;</hi> and going <note place="margin">His Giving and Paying Money for Mr. <hi>Paunce<g ref="char:EOLhyphen"/>fort.</hi>
+               </note> with Mr. <hi>Pauncefort</hi> to Alderman <hi>Hays,</hi> where Mr. <hi>Pauncefort</hi> Treated his own Voters, and two of Mr. <hi>Howard</hi>'s, to procure Subscriptions, That he had given no Bribes: And <hi>William Adey</hi> paid 20 <hi>s.</hi> to Mr. <hi>Hays,</hi> towards what was drunk at his House upon that Account.</p>
+            <p>Much more would have appear'd against <hi>William Adey,</hi> if Colonel <hi>Mor<g ref="char:EOLhyphen"/>dant,</hi> and Mr. <hi>Pennington</hi> might have been admitted to prove his setting the Election to Sale, before he had been proved <hi>Agent</hi> for Mr. <hi>Pauncefort;</hi> and if they (coming as Witnesses for Sir <hi>Thomas Skipwith)</hi> had not gone away, upon his being deprived of the Evidence of <hi>Brown,</hi> Senior, and the Four who had been Bound to Indempnifie him for his Discovery.</p>
+            <p>Upon the whole, if 'twere admitted that the <hi>Alderman</hi> might give two Votes for Mr. <hi>Pauncefort;</hi> yet, as 'tis conceived, Mr. <hi>Howard</hi> has two good Votes more than Mr. <hi>Pauncefort;</hi> three, if the Alderman has but a Single Vote; and four, if he ought not to Vote contrary to the Practice in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and the Nature of the Constitution of that <hi>Borough,</hi> which has an odd Number of <hi>Electors.</hi>
+            </p>
+            <p>
+               <hi>'Tis conceiv'd that</hi> Nichols <hi>shall not be presum'd, without Proof, to have Receiv'd the Sacrament contrary to his avow'd Principle; That the Votes of</hi> Brown <hi>and</hi> John Adey, <hi>procur'd by Bribes and Treats, are wholly Void; And that Mr.</hi> Howard <hi>was duely Chosen by the</hi> Majority <hi>of Persons qualified to Chuse.</hi>
+            </p>
+            <pb facs="tcp:207864:3"/>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:207864:3"/>
+            <p>CASE Of the Honourable CRAVEN HOWARD, Esq; Against Mr. EDWARD PAUNCEFORT, Touching the Election of <hi>Malmsbury.</hi>
+            </p>
+            <p>
+               <hi>Appointed to be Reported on</hi> Mon<g ref="char:EOLhyphen"/>day, <hi>the</hi> 27th. <hi>Instant.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
